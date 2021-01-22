@@ -1,0 +1,127 @@
+
+
+ Lista Generada: 1 134 212 2 135 213 162 161 2 44 41 221 1 1 21
+
+
+   * Con Direccion: 1
+ Estado en Cache :
+
+   * Con Direccion: 134
+ Estado en Cache :
+ * 1 - 0
+
+   * Con Direccion: 212
+ Estado en Cache :
+ * 1 - 0
+ * 134 - 0
+
+   * Con Direccion: 2
+ Estado en Cache :
+ * 1 - 0
+ * 134 - 0
+ * 212 - 0
+
+   * Con Direccion: 135
+ Estado en Cache :
+ * 1 - 0
+ * 134 - 0
+ * 212 - 0
+ * 2 - 0
+
+   * Con Direccion: 213
+ Estado en Cache :
+ * 1 - 0
+ * 134 - 0
+ * 212 - 0
+ * 2 - 0
+ * 135 - 0
+
+   * Con Direccion: 162
+ Estado en Cache :
+ * 1 - 0
+ * 134 - 0
+ * 212 - 0
+ * 2 - 0
+ * 135 - 0
+ * 213 - 0
+
+   * Con Direccion: 161
+ Estado en Cache :
+ * 1 - 0
+ * 134 - 0
+ * 212 - 0
+ * 2 - 0
+ * 135 - 0
+ * 213 - 0
+ * 162 - 0
+
+   * Con Direccion: 2
+ Estado en Cache :
+
+   * Con Direccion: 44
+ Estado en Cache :
+ * 1 - 0
+ * 134 - 0
+ * 212 - 0
+ * 2 - 1
+ * 135 - 0
+ * 213 - 0
+ * 162 - 0
+ * 161 - 0
+ * El par de menor frecuencia es 1 con 0 frecuencias
+ * El resultado 1 fue reemplazado por 44
+
+   * Con Direccion: 41
+ Estado en Cache :
+ * 134 - 0
+ * 212 - 0
+ * 2 - 1
+ * 135 - 0
+ * 213 - 0
+ * 162 - 0
+ * 161 - 0
+ * 44 - 0
+ * El par de menor frecuencia es 134 con 0 frecuencias
+ * El resultado 134 fue reemplazado por 41
+
+   * Con Direccion: 221
+ Estado en Cache :
+ * 212 - 0
+ * 2 - 1
+ * 135 - 0
+ * 213 - 0
+ * 162 - 0
+ * 161 - 0
+ * 44 - 0
+ * 41 - 0
+ * El par de menor frecuencia es 212 con 0 frecuencias
+ * El resultado 212 fue reemplazado por 221
+
+   * Con Direccion: 1
+ Estado en Cache :
+ * 2 - 1
+ * 135 - 0
+ * 213 - 0
+ * 162 - 0
+ * 161 - 0
+ * 44 - 0
+ * 41 - 0
+ * 221 - 0
+ * El par de menor frecuencia es 135 con 0 frecuencias
+ * El resultado 135 fue reemplazado por 1
+
+   * Con Direccion: 1
+ Estado en Cache :
+
+   * Con Direccion: 21
+ Estado en Cache :
+ * 2 - 1
+ * 213 - 0
+ * 162 - 0
+ * 161 - 0
+ * 44 - 0
+ * 41 - 0
+ * 221 - 0
+ * 1 - 1
+ * El par de menor frecuencia es 213 con 0 frecuencias
+ * El resultado 213 fue reemplazado por 21
